@@ -2,7 +2,7 @@
 /**
  * Plugin Name: Events Calendar (Extension for Vestige Core)
  * Version: 1.0.0
- * Description: Display events in a dynamic calendar using a shortcode. Usage: [dynamic_calendar month="January" year="2024"]
+ * Description: Display events in a dynamic calendar using a shortcode. Usage: [ecv_calendar month="January" year="2024"]
  * Author: Camille Davis
  *
  * @package Events_Calendar_Vestige
